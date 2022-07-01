@@ -1,4 +1,6 @@
 # rpi-neofetch
 My neofetch setup for Raspberry Pi
 
-![Image](./img/rpi-neofetch.png)
+<p align="center">
+<img src="./img/rpi-neofetch.png" width="513" height="384">
+</p>

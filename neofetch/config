@@ -12,8 +12,6 @@ prin "\n"
 prin "\n"
 prin "\n"
 prin "\n"
-prin "\n"
-prin "\n"
 prin "    ┌─────────\n  \n Hello, $USER \n  \n─────────┐"
 prin " ​ ​  " RaspbianOS
 info " ​ ​  " shell

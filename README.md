@@ -9,9 +9,9 @@
 My simple neofetch setup for Raspberry Pi
 
 ### Installation
-1. Copy repo
+1. `git clone https://github.com/david531/rpi-neofetch.git`
 2. Be SURE to backup your old neofetch config unless it's the default then...meh.
-3. Copy neofetch folder from this repo to your local.
+3. `cp rpi-neofetch/neofetch/* ~/.config/neofetch/`
 4. Enjoy
 
 ### Zsh Theme

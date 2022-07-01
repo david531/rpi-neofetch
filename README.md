@@ -1,10 +1,10 @@
 # rpi-neofetch
 
 <p align="center">
-<img src="./img/rpi-neofetch.png" width="75%">
+<img src="./img/rpi-neofetch.png" width="513" height="384">
 </p>
 
-My neofetch setup for Raspberry Pi
+My simple neofetch setup for Raspberry Pi
 
 ### Installation
 1. Copy repo

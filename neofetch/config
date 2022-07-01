@@ -72,7 +72,7 @@ separator="  "
 
 image_backend="ascii"
 
-image_source="$HOME/.config/neofetch/ascii.txt"
+image_source="$HOME/.config/neofetch/ascii"
 
 ascii_distro="Raspbian"
 

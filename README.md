@@ -2,7 +2,7 @@
 
 <p align="center">
 <kbd>
-<img src="./img/rpi-neofetch.png" width="646" height="426">
+<img src="./img/rpi-neofetch.png" width="450" height="270">
 </kbd>
 </p>
 

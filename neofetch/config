@@ -1,8 +1,9 @@
-## ==================================== ##
+## ========================================= ##
 #
-#         Raspberry Pi neofetch 
+#           Raspberry Pi neofetch 
+#   https://github.com/david531/rpi-neofetch
 #
-## ==================================== ##
+## ========================================= ##
 
 print_info() {
    
@@ -13,7 +14,6 @@ prin "\n"
 prin "\n"
 prin "\n"
 prin "\n"
-prin "\n \n \n ${cl3} \n \n ${cl5} \n \n ${cl2} \n \n ${cl6}  \n \n ${cl4}  \n \n ${cl1}  \n \n ${cl7}  \n \n ${cl0}"
 prin "    ┌─────────\n  \n Hello, $USER \n  \n─────────┐"
 prin " ​ ​  " RaspbianOS
 info " ​ ​  " shell
